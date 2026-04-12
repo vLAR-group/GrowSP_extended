@@ -1,5 +1,5 @@
-[![arXiv](https://img.shields.io/badge/arXiv-2504.11754-b31b1b.svg)](https://arxiv.org/abs/2506.07857)
-![code visitors](https://visitor-badge.glitch.me/badge?page_id=vLAR-group/OGC)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-11322855-00629B.svg)](https://ieeexplore.ieee.org/document/11322855)
+![code visitors](https://visitor-badge.laobi.icu/badge?page_id=vLAR-group.GrowSP_extended)
 [![Twitter Follow](https://img.shields.io/twitter/follow/vLAR_Group?style=social)](https://twitter.com/vLAR_Group)
 [![License: CC-BY-NC-SA](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-green)](./LICENSE)
 
@@ -202,4 +202,5 @@ CUDA_VISIBLE_DEVICES=0 python nuScenes_test_preds.py --test_input_pat './nuScene
 
 
 ## 4. Checkpoints
-The well-trained checkpoints for three datasets are in [Google Drive](https://drive.google.com/file/d/1UfM7opa7Xg1f10_LlKLeWbJjWapX0wm5/view?usp=sharing).
+The well-trained checkpoints for three datasets are in [Google Drive](https://drive.google.com/file/d/1RWmYqECHDNyuULe79obLVw3uWS2xYOby/view?usp=sharing).
+The code used for visualization are in `vis_predictions`.
