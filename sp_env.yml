@@ -1,0 +1,17 @@
+name: SP
+channels:
+  - conda-forge
+  - conda-forge/label/gcc7
+  - davidcaron
+  - defaults
+dependencies:
+  - python=3.8.12
+  - numpy=1.21.2
+  - qhull=2015.2
+  - pclpy=0.12.0
+  - pip:
+    - matplotlib==3.5.1
+    - ninja==1.10.2.3
+    - scikit-learn==0.22.2
+    - scipy==1.8.0
+    - seaborn==0.11.2
