@@ -4,7 +4,7 @@
 [![License: CC-BY-NC-SA](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-green)](./LICENSE)
 
 ## GrowSP++: Growing Superpoints and Primitives for Unsupervised 3D Semantic Segmentation (TPAMI 2026)
-[Zihui Zhang](https://scholar.google.com.hk/citations?hl=en&user=jiwazT8AAAAJ&view_op=list_works&sortby=pubdate), 
+[Zihui Zhang](https://zihui0930.github.io/), 
 [Weisheng Dai](https://scholar.google.com/citations?user=O6Tr52jUS9cC&hl=zh-CN), 
 [Bing Wang](https://bingcs.github.io/), [Bo Yang](https://yang7879.github.io/),
 [Bo Li](https://www4.comp.polyu.edu.hk/~bo2li/)
